@@ -1,7 +1,7 @@
-# Public Health Clinic Records System
+# Salone_Connect
 
 ## Description
-The Public Health Clinic Records System is a web-based application developed to manage patient records, appointments, prescriptions, and clinic activities efficiently and securely. The system helps improve record management, reduce paperwork, and enhance service delivery within the clinic.
+The Salone_Connect is a web-based application developed to manage patient records, appointments, prescriptions, and clinic activities efficiently and securely. The system helps improve record management, reduce paperwork, and enhance service delivery within the clinic.
 
 ## Group Members
 - Joshua Mansaray
@@ -44,7 +44,7 @@ This repository is used for:
 
 ## Project Structure
 ```text
-Public-Health-Clinic-Records-System/
+Salone_Connect/
 │
 ├── frontend/
 ├── backend/
