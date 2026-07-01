@@ -1,12 +1,7 @@
-# PROG102-PRINCIPLES-OF-SOFTWARE-ENGINEERING-BSEM1205-GROUP3
-Salone_Health_CONNECTION
-# Group Project Repository
-
-## Project Title
-Public Health Clinic Records System
+# Public Health Clinic Records System
 
 ## Description
-This project is a web-based application developed to manage patient records, appointments, prescriptions, and other clinic activities efficiently and securely.
+The Public Health Clinic Records System is a web-based application developed to manage patient records, appointments, prescriptions, and clinic activities efficiently and securely. The system helps improve record management, reduce paperwork, and enhance service delivery within the clinic.
 
 ## Group Members
 - Joshua Mansaray
@@ -14,16 +9,16 @@ This project is a web-based application developed to manage patient records, app
 - Umu Addiatu Jalloh
 
 ## Lecturer
-- Add your lecturer's name here
+- Mr. Santige Kamara
 
 ## Project Features
 - Patient Registration
-- Appointment Management
+- Appointment Scheduling
 - Medical Records Management
 - Prescription Management
 - Doctor Management
 - Report Generation
-- User Authentication
+- User Authentication and Authorization
 - Dashboard Overview
 
 ## Technologies Used
@@ -37,18 +32,19 @@ This project is a web-based application developed to manage patient records, app
 - Figma
 
 ## Repository Purpose
-This repository contains the source code, documentation, and design files for the group project submission.
+This repository contains the source code, documentation, and design files for the Public Health Clinic Records System group project.
 
 ## GitHub Collaboration
-The repository is used for:
+This repository is used for:
 - Storing project files
 - Tracking project progress
-- Sharing work with group members
+- Sharing work among group members
 - Allowing the lecturer to review the project
+- Managing project updates and improvements
 
 ## Project Structure
 ```text
-project/
+Public-Health-Clinic-Records-System/
 │
 ├── frontend/
 ├── backend/
@@ -62,12 +58,22 @@ project/
 ## Installation
 1. Clone the repository.
 2. Import the database into MySQL.
-3. Configure the database connection.
-4. Run the project on your local server.
-5. Open the project in your browser.
+3. Configure the database connection settings.
+4. Start the local server.
+5. Open the application in your web browser.
+
+## Objectives
+- Store patient information securely.
+- Improve clinic record management.
+- Reduce manual paperwork.
+- Enhance appointment management.
+- Provide quick access to patient medical history.
 
 ## License
 This project was developed for educational purposes as part of a university group assignment.
 
 ## Repository Owner
 Joshua Mansaray
+
+## Supervisor
+Mr. Santige Kamara
